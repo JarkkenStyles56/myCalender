@@ -1,6 +1,6 @@
 $(document).ready(function () {
-    let currentDay = moment();
-    $("#currentDay").text(currentDay)
+    let now = moment();
+    $("#currentDay").text(now)
 
 
 
